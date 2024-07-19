@@ -1,2 +1,2 @@
-# Entendendo Algoritmos - Aditya Y. Bhargava
-Este repositório contém implementações de diversos algoritmos estudados a partir do livro "Entendendo Algoritmos" do autor Aditya Y. Bhargava. O objetivo deste repositório é servir como uma referência pessoal e portfólio, além de auxiliar outros desenvolvedores e estudantes na compreensão e aplicação prática desses algoritmos.
+# Grokking Algorithms - Aditya Y. Bhargava
+This repository contains implementations of various algorithms studied from the book "Grokking Algorithms" by Aditya Y. Bhargava. The purpose of this repository is to serve as a personal reference and portfolio, as well as to assist other developers and students in understanding and practically applying these algorithms.
