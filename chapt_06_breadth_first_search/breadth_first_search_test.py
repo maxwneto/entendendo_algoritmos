@@ -1,4 +1,4 @@
-from graph_model import bfs
+from chapt_06_breadth_first_search.breadth_first_search import bfs
 
 graph = {
     'A': ['B', 'C'],
